@@ -15,7 +15,7 @@ def handler(event):
     # do the things
 
     # return the output that you want to be returned like pre-signed URLs to output artifacts
-    return "Hello Jacob!"
+    return "Hello Jacob!!!"
 
 
 runpod.serverless.start({"handler": handler})
